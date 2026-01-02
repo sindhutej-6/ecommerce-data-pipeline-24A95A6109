@@ -1,0 +1,6 @@
+payment_method,transaction_count,total_revenue,pct_of_transactions,pct_of_revenue
+UPI,2074,3047244.3,20.74,21.1
+Cash on Delivery,2048,2890427.42,20.48,20.01
+Net Banking,2013,2906694.17,20.13,20.12
+Credit Card,1962,2794553.41,19.62,19.35
+Debit Card,1903,2806214.6,19.03,19.43

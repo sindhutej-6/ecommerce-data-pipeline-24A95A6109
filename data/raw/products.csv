@@ -1,0 +1,501 @@
+product_id,product_name,category,sub_category,price,cost,brand,stock_quantity,supplier_id
+PROD0001,Defense Makeup,Beauty,Makeup,356.82,265.28,"Caldwell, Nichols and Hahn",487,SUP022
+PROD0002,Management Headphones,Electronics,Headphones,453.62,253.71,Calhoun-Rogers,467,SUP035
+PROD0003,Even Tennis Racket,Sports,Tennis Racket,349.54,237.93,Frey Inc,436,SUP033
+PROD0004,Sea Cricket Bat,Sports,Cricket Bat,375.63,229.81,Clay-Anderson,463,SUP036
+PROD0005,Lawyer Jeans,Clothing,Jeans,401.83,275.37,Serrano-Cardenas,409,SUP039
+PROD0006,Us Toaster,Home & Kitchen,Toaster,84.32,61.71,Morgan-Wolfe,476,SUP016
+PROD0007,Tree Non-Fiction,Books,Non-Fiction,382.33,231.1,Gonzalez-Moore,151,SUP033
+PROD0008,How Shirt,Clothing,Shirt,146.44,86.46,Meza Ltd,483,SUP023
+PROD0009,Lead Headphones,Electronics,Headphones,444.51,301.63,"Mccullough, Chen and Palmer",268,SUP010
+PROD0010,Huge Shirt,Clothing,Shirt,221.58,126.46,Thornton Group,473,SUP043
+PROD0011,Second Mobile,Electronics,Mobile,291.75,191.15,"Scott, Walker and Cherry",281,SUP005
+PROD0012,Particular Jacket,Clothing,Jacket,386.75,194.34,Cline-King,421,SUP019
+PROD0013,West Makeup,Beauty,Makeup,110.22,69.21,Marshall-Neal,368,SUP008
+PROD0014,Offer Camera,Electronics,Camera,64.95,33.14,Montgomery-Schmidt,271,SUP039
+PROD0015,Dream Skincare,Beauty,Skincare,80.79,64.51,"Harrington, Cochran and Hall",232,SUP020
+PROD0016,Community Mixer,Home & Kitchen,Mixer,179.59,107.27,Allen PLC,67,SUP037
+PROD0017,Civil Education,Books,Education,43.8,24.85,"Cole, Crawford and Crawford",146,SUP037
+PROD0018,Top Makeup,Beauty,Makeup,414.71,289.18,"Hall, Owens and Moody",127,SUP017
+PROD0019,Brother Tennis Racket,Sports,Tennis Racket,408.95,299.44,Hunt-Stewart,147,SUP043
+PROD0020,Position Cookware,Home & Kitchen,Cookware,329.07,202.22,"Williams, Diaz and Parks",339,SUP047
+PROD0021,Sense Vacuum,Home & Kitchen,Vacuum,243.29,149.3,"Griffin, Knight and Lambert",50,SUP009
+PROD0022,Attorney Skincare,Beauty,Skincare,36.93,22.69,Lloyd Ltd,368,SUP028
+PROD0023,Green Makeup,Beauty,Makeup,108.89,74.68,"Buckley, Hodges and Mills",463,SUP033
+PROD0024,Charge Makeup,Beauty,Makeup,186.53,107.44,Washington-Dawson,222,SUP032
+PROD0025,Month Shirt,Clothing,Shirt,22.53,13.32,"Smith, Jordan and George",159,SUP035
+PROD0026,Remain Education,Books,Education,435.15,332.26,"Bruce, Kramer and Green",459,SUP023
+PROD0027,Morning Perfume,Beauty,Perfume,472.1,257.84,Jones-Smith,208,SUP050
+PROD0028,Worry Camera,Electronics,Camera,443.18,259.19,Burch-Lambert,72,SUP012
+PROD0029,Second Shirt,Clothing,Shirt,89.3,58.39,Gomez-Cooper,98,SUP032
+PROD0030,Visit Toaster,Home & Kitchen,Toaster,480.23,300.66,"Hickman, Graves and Little",293,SUP039
+PROD0031,Class Vacuum,Home & Kitchen,Vacuum,153.32,115.24,Jones Inc,251,SUP009
+PROD0032,Color Shirt,Clothing,Shirt,258.26,195.25,Stafford-Dawson,482,SUP003
+PROD0033,Main Vacuum,Home & Kitchen,Vacuum,225.04,163.97,Stewart-Clark,131,SUP005
+PROD0034,Meeting Comics,Books,Comics,376.59,265.86,Peterson Ltd,496,SUP043
+PROD0035,Head Fiction,Books,Fiction,285.08,184.47,Ortiz and Sons,43,SUP019
+PROD0036,Political Jacket,Clothing,Jacket,19.89,12.73,"Fuller, Tucker and Cox",83,SUP004
+PROD0037,Dinner Haircare,Beauty,Haircare,189.81,133.47,"Garcia, Waters and Knox",82,SUP033
+PROD0038,Off Camera,Electronics,Camera,65.55,43.8,Robertson-Kelly,468,SUP007
+PROD0039,Again Vacuum,Home & Kitchen,Vacuum,329.32,230.58,Hall-Lee,147,SUP026
+PROD0040,Really Yoga Mat,Sports,Yoga Mat,175.18,124.02,Jones-Edwards,13,SUP030
+PROD0041,About Education,Books,Education,264.56,176.2,"Boyd, Johnson and Graham",193,SUP047
+PROD0042,Site Skincare,Beauty,Skincare,196.09,118.37,"Thomas, Mcdowell and French",299,SUP017
+PROD0043,Sport Fiction,Books,Fiction,69.18,55.31,"Freeman, Mitchell and Jones",117,SUP049
+PROD0044,Another Laptop,Electronics,Laptop,151.62,95.72,"Bolton, Roth and Hurley",121,SUP009
+PROD0045,Modern Non-Fiction,Books,Non-Fiction,479.85,337.14,"Wyatt, Smith and Haynes",139,SUP007
+PROD0046,Service Mixer,Home & Kitchen,Mixer,118.16,70.99,Davidson-Moore,376,SUP047
+PROD0047,Process Football,Sports,Football,79.01,59.18,Stanley Ltd,257,SUP023
+PROD0048,View Headphones,Electronics,Headphones,211.71,161.59,Green-Barron,247,SUP017
+PROD0049,Leg Skincare,Beauty,Skincare,89.51,71.12,Baldwin and Sons,463,SUP049
+PROD0050,Government Haircare,Beauty,Haircare,479.2,329.78,Young-Rivera,218,SUP026
+PROD0051,Same Skincare,Beauty,Skincare,454.71,266.78,Rojas Group,472,SUP015
+PROD0052,Majority Headphones,Electronics,Headphones,105.84,59.64,"Davidson, Johnson and Little",171,SUP037
+PROD0053,Site Perfume,Beauty,Perfume,158.47,106.06,Harris Group,313,SUP038
+PROD0054,Do Headphones,Electronics,Headphones,46.98,25.37,Martin-Burton,151,SUP048
+PROD0055,Form Mixer,Home & Kitchen,Mixer,163.98,127.78,"Paul, Johnson and Mason",137,SUP007
+PROD0056,Care Vacuum,Home & Kitchen,Vacuum,383.0,303.47,Sexton Ltd,278,SUP019
+PROD0057,Human Vacuum,Home & Kitchen,Vacuum,73.04,41.48,Simmons-Smith,222,SUP019
+PROD0058,Single Jacket,Clothing,Jacket,115.69,74.79,"Neal, Lopez and Tran",372,SUP044
+PROD0059,Expect Perfume,Beauty,Perfume,219.35,170.4,Haynes-Tran,291,SUP022
+PROD0060,Strong Toaster,Home & Kitchen,Toaster,32.31,20.73,Lopez-Hicks,395,SUP049
+PROD0061,Floor Vacuum,Home & Kitchen,Vacuum,440.52,227.52,Brown-Davis,342,SUP043
+PROD0062,Look Cookware,Home & Kitchen,Cookware,351.81,272.14,"Harris, Palmer and Griffin",125,SUP014
+PROD0063,Activity Laptop,Electronics,Laptop,484.83,362.57,"Arias, Jenkins and Martin",40,SUP013
+PROD0064,During Laptop,Electronics,Laptop,120.41,85.45,Robinson Ltd,156,SUP037
+PROD0065,Shake Toaster,Home & Kitchen,Toaster,432.01,258.53,"Brown, Fritz and Ramsey",390,SUP042
+PROD0066,Recognize Headphones,Electronics,Headphones,91.46,46.65,Smith-Thompson,500,SUP015
+PROD0067,Buy Vacuum,Home & Kitchen,Vacuum,46.73,28.85,Wade-Fox,435,SUP030
+PROD0068,Economy Jacket,Clothing,Jacket,341.28,265.88,"Perkins, Vargas and Martin",84,SUP003
+PROD0069,Difference Jeans,Clothing,Jeans,439.44,307.93,Potts Inc,140,SUP014
+PROD0070,After Comics,Books,Comics,415.06,220.11,Stone LLC,270,SUP038
+PROD0071,Audience Toaster,Home & Kitchen,Toaster,332.52,240.96,Holmes Group,465,SUP027
+PROD0072,Detail Laptop,Electronics,Laptop,386.89,215.59,Sanchez-Hernandez,249,SUP049
+PROD0073,Stand Football,Sports,Football,487.16,273.4,Caldwell-Meyer,141,SUP032
+PROD0074,Partner Mixer,Home & Kitchen,Mixer,436.7,318.41,"Baker, Pace and Turner",82,SUP023
+PROD0075,Develop Mixer,Home & Kitchen,Mixer,58.74,45.13,Pace PLC,19,SUP010
+PROD0076,Audience Comics,Books,Comics,391.23,201.81,Williamson-Brock,155,SUP049
+PROD0077,Form Shirt,Clothing,Shirt,341.59,196.13,Ryan-Hernandez,236,SUP020
+PROD0078,Mother Jeans,Clothing,Jeans,294.3,233.76,Allen PLC,482,SUP007
+PROD0079,Three Vacuum,Home & Kitchen,Vacuum,168.91,94.77,"Bradford, Martinez and Valdez",375,SUP015
+PROD0080,Shoulder Shirt,Clothing,Shirt,472.88,262.33,Curtis-Adams,294,SUP012
+PROD0081,And Comics,Books,Comics,86.82,47.56,Ross-Green,60,SUP028
+PROD0082,Particularly Headphones,Electronics,Headphones,432.0,226.76,"Wilcox, Duncan and Lewis",181,SUP038
+PROD0083,Final Perfume,Beauty,Perfume,190.47,116.08,"White, Davis and Christensen",206,SUP027
+PROD0084,Research Yoga Mat,Sports,Yoga Mat,400.48,316.65,Gonzalez-Wang,21,SUP022
+PROD0085,Gun Fiction,Books,Fiction,320.26,254.12,Gilbert and Sons,124,SUP038
+PROD0086,Paper Mobile,Electronics,Mobile,379.96,260.12,"Maxwell, Johnson and Lane",56,SUP041
+PROD0087,Woman Perfume,Beauty,Perfume,210.15,124.59,"Fisher, Murray and Hunter",169,SUP050
+PROD0088,These Mobile,Electronics,Mobile,226.3,114.0,Zavala PLC,269,SUP018
+PROD0089,Art Perfume,Beauty,Perfume,163.39,102.52,"Thomas, Mckee and Valdez",465,SUP022
+PROD0090,Memory Mobile,Electronics,Mobile,236.79,164.37,Cherry-Flynn,400,SUP048
+PROD0091,Wonder Toaster,Home & Kitchen,Toaster,324.67,226.58,"Smith, Hardy and Rodriguez",382,SUP005
+PROD0092,Town Toaster,Home & Kitchen,Toaster,150.71,109.37,"Montoya, Mack and Hanna",310,SUP032
+PROD0093,Someone Yoga Mat,Sports,Yoga Mat,61.12,46.47,"Jackson, Graham and Miller",344,SUP037
+PROD0094,Identify Yoga Mat,Sports,Yoga Mat,209.91,139.91,Swanson-Turner,330,SUP041
+PROD0095,Near Cricket Bat,Sports,Cricket Bat,329.63,197.45,"Foster, Lynch and Mann",191,SUP027
+PROD0096,Phone Education,Books,Education,271.81,136.92,"Levy, Jones and Vasquez",18,SUP048
+PROD0097,Letter Haircare,Beauty,Haircare,87.05,68.79,Jones Ltd,139,SUP045
+PROD0098,Law Toaster,Home & Kitchen,Toaster,110.1,84.32,Williams-Parker,119,SUP037
+PROD0099,Major Shirt,Clothing,Shirt,77.94,39.06,Smith-Hall,221,SUP041
+PROD0100,Treat Perfume,Beauty,Perfume,397.72,211.81,"Good, Ferguson and Yu",337,SUP018
+PROD0101,As Education,Books,Education,416.7,330.47,Price Group,493,SUP048
+PROD0102,Call Makeup,Beauty,Makeup,385.02,221.95,Sharp and Sons,426,SUP006
+PROD0103,Born Skincare,Beauty,Skincare,361.56,215.83,"Diaz, Perez and Holmes",396,SUP015
+PROD0104,Room Camera,Electronics,Camera,113.56,80.62,Valdez Ltd,343,SUP013
+PROD0105,Movie Haircare,Beauty,Haircare,23.1,12.37,Bender PLC,35,SUP018
+PROD0106,Meet Haircare,Beauty,Haircare,18.42,9.6,"Davenport, Porter and Murphy",351,SUP003
+PROD0107,Program Laptop,Electronics,Laptop,315.2,177.51,"Cunningham, Estrada and Flores",354,SUP031
+PROD0108,Much Makeup,Beauty,Makeup,68.17,46.22,Eaton-James,80,SUP012
+PROD0109,Black Perfume,Beauty,Perfume,196.93,145.47,Chapman-Norman,173,SUP037
+PROD0110,Very Shirt,Clothing,Shirt,343.41,213.31,"Moody, Johnson and Bishop",215,SUP038
+PROD0111,News Yoga Mat,Sports,Yoga Mat,56.3,41.37,Moran-Lopez,35,SUP017
+PROD0112,Nothing Yoga Mat,Sports,Yoga Mat,452.51,227.24,Buck PLC,303,SUP001
+PROD0113,Service Vacuum,Home & Kitchen,Vacuum,248.42,170.69,Graves-Bryant,277,SUP008
+PROD0114,Kind Comics,Books,Comics,175.4,89.26,Frazier and Sons,327,SUP037
+PROD0115,Reflect Jeans,Clothing,Jeans,413.95,253.16,Huynh and Sons,413,SUP019
+PROD0116,Oil Jacket,Clothing,Jacket,76.88,43.55,Henry Ltd,65,SUP039
+PROD0117,Peace Perfume,Beauty,Perfume,44.3,25.5,Woods-Porter,305,SUP027
+PROD0118,Economic T-Shirt,Clothing,T-Shirt,413.51,224.63,"Mayer, Ramirez and Gross",126,SUP049
+PROD0119,Boy Non-Fiction,Books,Non-Fiction,344.66,254.76,Cox Inc,214,SUP026
+PROD0120,Find Non-Fiction,Books,Non-Fiction,343.63,231.54,Dalton-Hoffman,241,SUP009
+PROD0121,Save Non-Fiction,Books,Non-Fiction,64.56,36.05,"Murphy, Terry and Tran",285,SUP027
+PROD0122,Around Mixer,Home & Kitchen,Mixer,467.28,250.53,"Hunt, Carter and Drake",98,SUP037
+PROD0123,How Toaster,Home & Kitchen,Toaster,436.46,291.34,"Morgan, Richardson and Graham",473,SUP029
+PROD0124,Future Jacket,Clothing,Jacket,291.49,223.1,Barrera PLC,429,SUP043
+PROD0125,Measure Vacuum,Home & Kitchen,Vacuum,415.61,278.38,Fisher-Harris,157,SUP003
+PROD0126,Story Jeans,Clothing,Jeans,80.64,47.28,"Rosario, Rodriguez and Cortez",286,SUP031
+PROD0127,Ability Skincare,Beauty,Skincare,317.96,237.4,Davis-Taylor,309,SUP001
+PROD0128,People Haircare,Beauty,Haircare,29.46,21.27,"Contreras, Lopez and Mcgee",178,SUP044
+PROD0129,Member Cookware,Home & Kitchen,Cookware,140.43,86.74,"Nguyen, Hernandez and Gaines",42,SUP018
+PROD0130,Popular Shirt,Clothing,Shirt,311.92,158.7,"Harris, George and Miles",298,SUP025
+PROD0131,Individual Football,Sports,Football,256.24,173.23,Watkins Group,185,SUP002
+PROD0132,Big Headphones,Electronics,Headphones,273.85,197.92,"Ward, Wilkinson and Williams",17,SUP005
+PROD0133,Ago Jeans,Clothing,Jeans,313.02,174.2,Montoya-Poole,225,SUP010
+PROD0134,Behind Toaster,Home & Kitchen,Toaster,52.75,27.45,Robinson PLC,63,SUP009
+PROD0135,Small Headphones,Electronics,Headphones,50.88,39.85,Bryant Ltd,54,SUP034
+PROD0136,Just Fiction,Books,Fiction,472.49,244.46,"Schaefer, Cameron and Bell",171,SUP007
+PROD0137,Region Cricket Bat,Sports,Cricket Bat,241.43,137.26,Mcneil-Thomas,73,SUP040
+PROD0138,And Toaster,Home & Kitchen,Toaster,409.98,271.41,"Alexander, Conley and Franco",397,SUP011
+PROD0139,Beyond Shirt,Clothing,Shirt,210.49,168.21,"Tran, Bowman and Ford",235,SUP023
+PROD0140,Only Jeans,Clothing,Jeans,125.04,96.32,Hale Inc,412,SUP031
+PROD0141,State Toaster,Home & Kitchen,Toaster,248.17,159.32,Campos Inc,297,SUP003
+PROD0142,President Headphones,Electronics,Headphones,246.07,161.31,"Clarke, Thompson and Campbell",422,SUP043
+PROD0143,Blood T-Shirt,Clothing,T-Shirt,168.69,90.21,Smith-Gilbert,143,SUP026
+PROD0144,Perform Non-Fiction,Books,Non-Fiction,146.7,110.62,"Long, Richardson and Thompson",476,SUP047
+PROD0145,Project Perfume,Beauty,Perfume,273.85,151.27,Franco-Bell,305,SUP033
+PROD0146,Section Cookware,Home & Kitchen,Cookware,391.74,208.22,Rocha PLC,262,SUP020
+PROD0147,Action Haircare,Beauty,Haircare,202.96,161.92,"Garcia, Mills and Morris",137,SUP014
+PROD0148,Though Jeans,Clothing,Jeans,96.64,61.9,Tran-Garcia,68,SUP010
+PROD0149,Central Football,Sports,Football,311.08,240.11,Simmons Group,322,SUP049
+PROD0150,Discuss Skincare,Beauty,Skincare,223.76,170.18,"Dixon, Schmidt and Burke",59,SUP043
+PROD0151,Well Cricket Bat,Sports,Cricket Bat,109.23,65.27,"Miles, Hill and Krueger",295,SUP021
+PROD0152,Near Cookware,Home & Kitchen,Cookware,149.1,105.38,Jordan Ltd,362,SUP031
+PROD0153,To Vacuum,Home & Kitchen,Vacuum,310.24,215.31,Armstrong-Hill,348,SUP043
+PROD0154,Form T-Shirt,Clothing,T-Shirt,123.35,86.63,Carpenter Inc,434,SUP031
+PROD0155,Water Cricket Bat,Sports,Cricket Bat,116.52,76.88,"Owens, Santos and Valencia",52,SUP042
+PROD0156,Future Mobile,Electronics,Mobile,467.61,296.97,"Casey, Thompson and Mack",53,SUP010
+PROD0157,Laugh Cricket Bat,Sports,Cricket Bat,227.17,180.57,Bowman LLC,459,SUP018
+PROD0158,Series Toaster,Home & Kitchen,Toaster,389.94,195.77,Quinn-Roy,116,SUP037
+PROD0159,First Makeup,Beauty,Makeup,213.5,142.35,"Patel, Wilson and Price",47,SUP030
+PROD0160,Social Non-Fiction,Books,Non-Fiction,386.96,195.51,"Phillips, Garcia and Green",97,SUP022
+PROD0161,Card Camera,Electronics,Camera,162.24,104.66,"Bowman, Kent and Becker",357,SUP027
+PROD0162,Good Makeup,Beauty,Makeup,282.66,199.08,Baker LLC,379,SUP042
+PROD0163,Level Mixer,Home & Kitchen,Mixer,312.32,220.46,"Robbins, Gonzalez and Miller",335,SUP012
+PROD0164,However Comics,Books,Comics,95.45,50.63,Smith-Thompson,176,SUP024
+PROD0165,Church Football,Sports,Football,75.69,42.54,Sanders Inc,149,SUP047
+PROD0166,Experience Jeans,Clothing,Jeans,320.17,236.66,James Ltd,211,SUP048
+PROD0167,Anyone Perfume,Beauty,Perfume,105.95,56.42,Wyatt-Rivers,29,SUP027
+PROD0168,Article Skincare,Beauty,Skincare,392.17,227.98,"Hinton, Smith and Nelson",445,SUP021
+PROD0169,Them Jeans,Clothing,Jeans,190.78,123.55,Adkins Inc,245,SUP050
+PROD0170,Several Education,Books,Education,336.0,182.46,White Inc,150,SUP022
+PROD0171,Character Yoga Mat,Sports,Yoga Mat,23.59,13.92,Simon Inc,185,SUP012
+PROD0172,Your Comics,Books,Comics,231.92,165.05,Walters-Allen,34,SUP026
+PROD0173,Close Haircare,Beauty,Haircare,499.89,338.71,Moore-Reeves,426,SUP033
+PROD0174,Language Haircare,Beauty,Haircare,452.59,339.09,Davenport and Sons,65,SUP009
+PROD0175,Amount Cookware,Home & Kitchen,Cookware,486.89,288.93,Robinson-Fox,325,SUP011
+PROD0176,Letter Cookware,Home & Kitchen,Cookware,479.86,316.45,Fuentes LLC,73,SUP002
+PROD0177,Bar Perfume,Beauty,Perfume,86.06,67.08,Lee-Cortez,234,SUP025
+PROD0178,Art Comics,Books,Comics,66.07,40.63,Myers and Sons,55,SUP027
+PROD0179,And Makeup,Beauty,Makeup,178.61,114.36,"Cook, French and Haynes",114,SUP031
+PROD0180,Teacher Mobile,Electronics,Mobile,172.45,122.62,Stewart LLC,340,SUP040
+PROD0181,View Jacket,Clothing,Jacket,464.53,272.41,Nguyen-Barnett,37,SUP044
+PROD0182,Population Laptop,Electronics,Laptop,56.42,28.3,Benson Group,346,SUP017
+PROD0183,See Shirt,Clothing,Shirt,40.0,21.24,Powers-Butler,448,SUP030
+PROD0184,Animal Mobile,Electronics,Mobile,141.35,82.62,"Diaz, Andrade and Hart",236,SUP004
+PROD0185,Again Toaster,Home & Kitchen,Toaster,322.49,249.95,Walton and Sons,475,SUP036
+PROD0186,Few Cookware,Home & Kitchen,Cookware,346.06,273.76,Dean Group,451,SUP031
+PROD0187,Stay Laptop,Electronics,Laptop,256.76,199.01,"Brooks, Kramer and Jimenez",156,SUP031
+PROD0188,Appear Comics,Books,Comics,79.22,46.69,Wood Ltd,59,SUP008
+PROD0189,Daughter Mobile,Electronics,Mobile,433.85,242.61,Lewis-Mckinney,41,SUP033
+PROD0190,Some Mixer,Home & Kitchen,Mixer,419.94,214.17,Mays-Wilson,131,SUP002
+PROD0191,Real Education,Books,Education,480.95,350.94,"Byrd, Hart and Gregory",80,SUP036
+PROD0192,Remember Shirt,Clothing,Shirt,129.57,85.36,"Miller, Collins and Davenport",428,SUP045
+PROD0193,Worker Perfume,Beauty,Perfume,142.41,89.07,Green PLC,13,SUP012
+PROD0194,Break Skincare,Beauty,Skincare,181.9,125.04,"Yates, Miller and Munoz",363,SUP005
+PROD0195,Actually Cricket Bat,Sports,Cricket Bat,240.48,190.01,Stone-Griffin,402,SUP003
+PROD0196,Significant Laptop,Electronics,Laptop,357.9,252.72,"Mora, Galloway and Davis",92,SUP010
+PROD0197,Skin Shirt,Clothing,Shirt,418.24,215.32,"Hicks, Keith and Watson",420,SUP037
+PROD0198,According Fiction,Books,Fiction,243.45,188.41,Martin Ltd,64,SUP009
+PROD0199,Which Jacket,Clothing,Jacket,477.13,344.65,"Smith, Joseph and Watson",162,SUP031
+PROD0200,Mission Skincare,Beauty,Skincare,224.84,119.99,Williams PLC,43,SUP015
+PROD0201,Buy Jacket,Clothing,Jacket,35.69,25.47,Ware Group,310,SUP038
+PROD0202,Everyone Mixer,Home & Kitchen,Mixer,287.51,173.1,Hansen and Sons,62,SUP024
+PROD0203,Positive Football,Sports,Football,258.71,196.44,Everett-Boyle,157,SUP045
+PROD0204,Small Laptop,Electronics,Laptop,369.94,250.95,"Todd, Michael and Baxter",409,SUP029
+PROD0205,Address Jacket,Clothing,Jacket,267.65,196.96,Spencer-Fitzpatrick,399,SUP037
+PROD0206,Sense Football,Sports,Football,447.47,279.58,Parks-Gallagher,345,SUP034
+PROD0207,Modern Shirt,Clothing,Shirt,191.64,105.5,Wagner Group,226,SUP045
+PROD0208,Music Makeup,Beauty,Makeup,43.48,28.12,Nguyen PLC,16,SUP026
+PROD0209,Population Yoga Mat,Sports,Yoga Mat,482.54,287.24,"Lee, Clark and Boyle",451,SUP044
+PROD0210,Tree Shirt,Clothing,Shirt,80.27,63.82,"Simpson, Williams and Peterson",190,SUP048
+PROD0211,Color Cricket Bat,Sports,Cricket Bat,113.06,63.18,Alvarado-Henry,151,SUP034
+PROD0212,Pattern Shirt,Clothing,Shirt,497.77,308.68,Johnson-Miller,128,SUP046
+PROD0213,Evidence Perfume,Beauty,Perfume,273.79,203.51,"James, Coleman and Diaz",393,SUP012
+PROD0214,Score Tennis Racket,Sports,Tennis Racket,496.25,290.55,Robinson PLC,400,SUP020
+PROD0215,Unit Perfume,Beauty,Perfume,434.8,222.16,Patel PLC,339,SUP008
+PROD0216,Natural Toaster,Home & Kitchen,Toaster,137.31,93.67,"Reed, Lopez and Howard",147,SUP043
+PROD0217,By T-Shirt,Clothing,T-Shirt,473.03,350.06,"Ramirez, Fisher and Coleman",305,SUP031
+PROD0218,Seem Mobile,Electronics,Mobile,259.61,195.2,Stark LLC,289,SUP015
+PROD0219,East Shirt,Clothing,Shirt,12.15,7.77,White and Sons,327,SUP014
+PROD0220,Continue Shirt,Clothing,Shirt,205.85,149.25,Castro-Peters,155,SUP037
+PROD0221,Save Headphones,Electronics,Headphones,201.09,160.46,"Abbott, Rosario and Weaver",182,SUP005
+PROD0222,Six Tennis Racket,Sports,Tennis Racket,382.83,254.44,Mcdonald-Manning,383,SUP034
+PROD0223,Hour Toaster,Home & Kitchen,Toaster,41.13,29.09,"Ford, Daniels and Blackwell",342,SUP016
+PROD0224,Claim Shirt,Clothing,Shirt,248.15,164.85,"Duncan, Thomas and Williams",410,SUP006
+PROD0225,Much Mixer,Home & Kitchen,Mixer,179.61,105.47,"Jenkins, Parker and Campbell",494,SUP044
+PROD0226,Coach Education,Books,Education,62.48,39.74,Watkins Group,170,SUP028
+PROD0227,Push Yoga Mat,Sports,Yoga Mat,484.79,382.13,Mosley-Morris,326,SUP011
+PROD0228,Experience Haircare,Beauty,Haircare,325.45,163.84,Avery-Oliver,238,SUP014
+PROD0229,Positive Skincare,Beauty,Skincare,317.29,195.72,Brooks-Andrews,53,SUP002
+PROD0230,Short Vacuum,Home & Kitchen,Vacuum,291.31,205.26,Bell-Peterson,22,SUP022
+PROD0231,Whatever Headphones,Electronics,Headphones,338.12,263.46,Sims and Sons,52,SUP012
+PROD0232,Conference Laptop,Electronics,Laptop,403.13,211.96,"White, Holmes and Lawson",432,SUP006
+PROD0233,Themselves Makeup,Beauty,Makeup,372.06,292.0,White PLC,314,SUP031
+PROD0234,Yourself Jeans,Clothing,Jeans,33.72,24.07,Taylor and Sons,444,SUP025
+PROD0235,Why Cricket Bat,Sports,Cricket Bat,28.82,20.55,Hardin PLC,255,SUP015
+PROD0236,During Comics,Books,Comics,25.66,13.12,Rice-Meyers,474,SUP023
+PROD0237,Contain Laptop,Electronics,Laptop,282.41,182.22,Williams-Diaz,86,SUP050
+PROD0238,Edge Jeans,Clothing,Jeans,38.12,29.83,Bailey-Graham,489,SUP050
+PROD0239,Individual Non-Fiction,Books,Non-Fiction,289.85,160.73,Schwartz and Sons,134,SUP020
+PROD0240,Already Jeans,Clothing,Jeans,236.27,163.33,"Yang, Bennett and Peterson",394,SUP004
+PROD0241,Nature Non-Fiction,Books,Non-Fiction,179.02,126.1,Rowland PLC,432,SUP017
+PROD0242,Small Cookware,Home & Kitchen,Cookware,62.38,44.26,Martin-Harris,278,SUP036
+PROD0243,Issue Non-Fiction,Books,Non-Fiction,241.51,182.22,"Ferguson, Duncan and Kennedy",275,SUP037
+PROD0244,Manage Toaster,Home & Kitchen,Toaster,69.17,47.85,Wilcox Ltd,46,SUP022
+PROD0245,Last Mixer,Home & Kitchen,Mixer,195.34,116.39,"Gibson, Owens and Bell",103,SUP011
+PROD0246,High Tennis Racket,Sports,Tennis Racket,187.28,143.91,"Sweeney, Lopez and Becker",370,SUP042
+PROD0247,Day Fiction,Books,Fiction,414.67,239.82,"Wells, Collins and Gibbs",347,SUP050
+PROD0248,Card Perfume,Beauty,Perfume,353.31,199.78,Garcia-Wiley,219,SUP028
+PROD0249,Enter Yoga Mat,Sports,Yoga Mat,38.03,27.35,"Dennis, Lee and Fowler",72,SUP044
+PROD0250,Condition Cricket Bat,Sports,Cricket Bat,92.61,47.76,Jones-Harper,445,SUP001
+PROD0251,Rock T-Shirt,Clothing,T-Shirt,396.92,211.18,"Weaver, Cox and Hunter",321,SUP050
+PROD0252,Along Mixer,Home & Kitchen,Mixer,282.96,182.2,"Torres, Hernandez and Pierce",141,SUP014
+PROD0253,Mission Perfume,Beauty,Perfume,348.19,223.46,Garcia-Taylor,123,SUP032
+PROD0254,Recognize Laptop,Electronics,Laptop,271.34,186.41,Parks-Anderson,284,SUP045
+PROD0255,Out Football,Sports,Football,493.27,352.84,Webb-Ruiz,210,SUP030
+PROD0256,Type Skincare,Beauty,Skincare,462.54,251.87,Shaw-King,223,SUP045
+PROD0257,Ok Camera,Electronics,Camera,497.98,393.32,Chase and Sons,405,SUP033
+PROD0258,Available Cookware,Home & Kitchen,Cookware,52.55,37.88,"Ruiz, Mckinney and Kidd",46,SUP033
+PROD0259,Floor Shirt,Clothing,Shirt,441.27,289.74,Nelson-Hill,180,SUP035
+PROD0260,Indeed Perfume,Beauty,Perfume,48.14,26.76,Greene Group,25,SUP046
+PROD0261,Pm Football,Sports,Football,438.3,319.13,"Burch, Malone and Tucker",468,SUP036
+PROD0262,Hit Tennis Racket,Sports,Tennis Racket,57.42,30.19,"Cooke, Miller and Oliver",254,SUP001
+PROD0263,Customer Shirt,Clothing,Shirt,424.3,245.27,Lara PLC,409,SUP046
+PROD0264,Traditional Vacuum,Home & Kitchen,Vacuum,482.86,378.36,Wood and Sons,414,SUP009
+PROD0265,Yet Skincare,Beauty,Skincare,315.14,177.58,Glover Inc,70,SUP006
+PROD0266,Poor Non-Fiction,Books,Non-Fiction,71.58,38.19,"Hopkins, Taylor and Hansen",436,SUP019
+PROD0267,Little Tennis Racket,Sports,Tennis Racket,285.09,181.01,"Golden, Newman and Anderson",412,SUP031
+PROD0268,Study Comics,Books,Comics,240.92,138.98,Mendez and Sons,102,SUP013
+PROD0269,Want Shirt,Clothing,Shirt,161.12,87.33,Bauer PLC,82,SUP015
+PROD0270,Drive T-Shirt,Clothing,T-Shirt,450.11,295.13,Jones-Young,330,SUP017
+PROD0271,Choose Mixer,Home & Kitchen,Mixer,473.28,318.58,Terrell-Jones,336,SUP005
+PROD0272,Lead Mixer,Home & Kitchen,Mixer,459.54,260.98,Logan and Sons,475,SUP006
+PROD0273,Left Mobile,Electronics,Mobile,213.09,119.03,Krause-Peterson,229,SUP002
+PROD0274,Us T-Shirt,Clothing,T-Shirt,252.22,166.44,Lucas-Gray,291,SUP035
+PROD0275,Ever Skincare,Beauty,Skincare,73.2,53.58,"Carson, Martinez and Gordon",231,SUP040
+PROD0276,Hundred Tennis Racket,Sports,Tennis Racket,357.32,226.52,"Robinson, Cooper and Lucas",298,SUP037
+PROD0277,Mean Jacket,Clothing,Jacket,55.77,36.82,Murphy Inc,210,SUP033
+PROD0278,Chance Fiction,Books,Fiction,433.53,265.77,Murphy Ltd,120,SUP025
+PROD0279,Most Laptop,Electronics,Laptop,180.65,139.61,"Davis, Sanchez and Page",416,SUP044
+PROD0280,Onto Camera,Electronics,Camera,318.05,201.18,Henson PLC,353,SUP028
+PROD0281,Car Football,Sports,Football,434.41,340.41,Villa Group,67,SUP025
+PROD0282,Establish Yoga Mat,Sports,Yoga Mat,215.84,128.09,Taylor PLC,158,SUP022
+PROD0283,Meeting Education,Books,Education,186.99,119.87,"Carpenter, Bryant and Smith",239,SUP042
+PROD0284,Deal Yoga Mat,Sports,Yoga Mat,212.69,168.83,Carlson-Wallace,433,SUP009
+PROD0285,Thought Camera,Electronics,Camera,10.84,5.49,"Fletcher, Price and Paul",237,SUP004
+PROD0286,Eight Jacket,Clothing,Jacket,486.13,385.47,Wells-Williams,293,SUP008
+PROD0287,Music Shirt,Clothing,Shirt,71.86,47.15,"Rivera, Powell and Wood",196,SUP039
+PROD0288,Call Makeup,Beauty,Makeup,58.21,36.99,"Bradford, Massey and Chapman",169,SUP036
+PROD0289,Tonight Headphones,Electronics,Headphones,440.69,322.76,Day LLC,325,SUP014
+PROD0290,Authority Vacuum,Home & Kitchen,Vacuum,200.78,152.77,Wall Inc,271,SUP020
+PROD0291,Hit Headphones,Electronics,Headphones,339.26,209.01,"Torres, Ellison and Ellis",338,SUP041
+PROD0292,Partner Camera,Electronics,Camera,100.58,53.21,Fleming Inc,199,SUP030
+PROD0293,Gas Shirt,Clothing,Shirt,327.12,171.08,"Chase, Wong and Medina",124,SUP031
+PROD0294,Team Shirt,Clothing,Shirt,161.45,81.26,Martinez Group,418,SUP032
+PROD0295,Run Cookware,Home & Kitchen,Cookware,260.18,192.16,Clark-Benson,99,SUP018
+PROD0296,Two Camera,Electronics,Camera,494.84,395.43,Shepard-Griffith,467,SUP028
+PROD0297,Whose Haircare,Beauty,Haircare,113.51,75.63,"Heath, Griffith and Leonard",305,SUP046
+PROD0298,Ability Skincare,Beauty,Skincare,476.53,345.4,"Smith, Taylor and Williams",71,SUP025
+PROD0299,Arm Cricket Bat,Sports,Cricket Bat,285.89,143.5,Patrick Inc,221,SUP047
+PROD0300,Institution Toaster,Home & Kitchen,Toaster,382.32,285.08,"Walter, Orozco and Lee",152,SUP011
+PROD0301,Reach Jacket,Clothing,Jacket,102.64,59.26,Thompson Inc,219,SUP031
+PROD0302,Cold Cookware,Home & Kitchen,Cookware,238.79,170.02,"Wilson, Harris and Fitzpatrick",348,SUP029
+PROD0303,American Non-Fiction,Books,Non-Fiction,68.99,54.11,Matthews-Day,68,SUP036
+PROD0304,City Yoga Mat,Sports,Yoga Mat,149.47,102.1,Maddox and Sons,172,SUP031
+PROD0305,Thought Jacket,Clothing,Jacket,360.07,259.67,Brown-Martinez,293,SUP045
+PROD0306,Off Camera,Electronics,Camera,435.95,235.67,Reed LLC,321,SUP014
+PROD0307,Item T-Shirt,Clothing,T-Shirt,86.37,53.14,"Simmons, Fisher and Jackson",149,SUP022
+PROD0308,That Camera,Electronics,Camera,88.72,51.6,"Anderson, Moran and Knapp",445,SUP021
+PROD0309,And Tennis Racket,Sports,Tennis Racket,245.25,145.11,Smith-Thomas,291,SUP043
+PROD0310,Nothing Skincare,Beauty,Skincare,281.22,149.2,Kennedy-Freeman,103,SUP017
+PROD0311,Since Perfume,Beauty,Perfume,230.76,134.69,Martin-Walters,17,SUP037
+PROD0312,Though Haircare,Beauty,Haircare,38.44,25.34,Moore Ltd,483,SUP024
+PROD0313,Class Perfume,Beauty,Perfume,74.81,56.32,Hoffman PLC,42,SUP036
+PROD0314,Force Mixer,Home & Kitchen,Mixer,149.8,113.61,Barnett PLC,425,SUP023
+PROD0315,Interview Shirt,Clothing,Shirt,143.96,107.6,Walters and Sons,462,SUP009
+PROD0316,Already Mobile,Electronics,Mobile,154.99,92.14,Perkins-Mckenzie,473,SUP010
+PROD0317,Rock Haircare,Beauty,Haircare,12.33,9.33,Hanna PLC,226,SUP033
+PROD0318,Live Makeup,Beauty,Makeup,459.41,357.91,"Lynn, Miller and Jackson",185,SUP001
+PROD0319,Tv Cookware,Home & Kitchen,Cookware,115.48,78.8,Avila-Flores,108,SUP014
+PROD0320,Message Vacuum,Home & Kitchen,Vacuum,453.42,249.27,Carrillo-Spencer,32,SUP004
+PROD0321,Radio Non-Fiction,Books,Non-Fiction,277.2,206.12,Dixon-Martinez,236,SUP018
+PROD0322,Really Jacket,Clothing,Jacket,58.41,37.41,Walker-Wood,159,SUP033
+PROD0323,Real Fiction,Books,Fiction,419.88,311.11,Gallagher PLC,135,SUP022
+PROD0324,Month Cricket Bat,Sports,Cricket Bat,201.34,134.47,"Saunders, Moss and Gillespie",270,SUP014
+PROD0325,Bed T-Shirt,Clothing,T-Shirt,97.18,56.9,"Mclaughlin, Montoya and Bond",37,SUP020
+PROD0326,Decide Cricket Bat,Sports,Cricket Bat,91.28,64.8,Williams-Fuller,168,SUP030
+PROD0327,Certainly Camera,Electronics,Camera,396.81,298.47,Mitchell Group,283,SUP040
+PROD0328,School Non-Fiction,Books,Non-Fiction,217.75,112.86,Stanton-Garza,343,SUP004
+PROD0329,Laugh Football,Sports,Football,498.98,255.43,"Fuentes, Garcia and Valenzuela",110,SUP002
+PROD0330,During Makeup,Beauty,Makeup,342.26,214.43,"Mccarty, Simmons and Mitchell",413,SUP002
+PROD0331,Another Comics,Books,Comics,45.66,31.64,White Inc,252,SUP011
+PROD0332,Friend Headphones,Electronics,Headphones,30.69,16.03,Gibbs Inc,295,SUP021
+PROD0333,Any Jacket,Clothing,Jacket,125.8,100.53,Deleon Ltd,124,SUP032
+PROD0334,Along Cricket Bat,Sports,Cricket Bat,414.32,274.07,Holmes and Sons,328,SUP038
+PROD0335,Career Cricket Bat,Sports,Cricket Bat,411.73,312.45,"Smith, Walker and Duncan",240,SUP042
+PROD0336,Key Jeans,Clothing,Jeans,161.93,103.94,Bryan Group,44,SUP028
+PROD0337,Exactly Skincare,Beauty,Skincare,102.84,71.46,Soto-Kelley,474,SUP023
+PROD0338,Throughout T-Shirt,Clothing,T-Shirt,51.75,32.86,"Collins, Harper and Weber",238,SUP026
+PROD0339,Age Education,Books,Education,134.72,103.56,"Reid, Fisher and Hernandez",255,SUP016
+PROD0340,Well Non-Fiction,Books,Non-Fiction,46.53,29.67,Lopez-Oneill,294,SUP020
+PROD0341,He Skincare,Beauty,Skincare,317.4,196.18,Cook Ltd,409,SUP022
+PROD0342,Western Laptop,Electronics,Laptop,166.01,97.4,"Joyce, Howard and Torres",382,SUP012
+PROD0343,Two Cookware,Home & Kitchen,Cookware,115.56,82.58,"Allen, Barrera and Reyes",340,SUP019
+PROD0344,Teacher Makeup,Beauty,Makeup,320.79,182.89,Sanchez-Johnson,303,SUP046
+PROD0345,Reality Tennis Racket,Sports,Tennis Racket,246.72,125.8,Price Ltd,242,SUP043
+PROD0346,Deep Mobile,Electronics,Mobile,156.37,111.69,"Martin, Hayes and Lee",234,SUP024
+PROD0347,Few Comics,Books,Comics,470.69,359.02,Boyd-White,210,SUP047
+PROD0348,History Tennis Racket,Sports,Tennis Racket,289.31,156.02,Davis and Sons,121,SUP009
+PROD0349,Step Camera,Electronics,Camera,46.1,28.26,"Singleton, Ward and Eaton",325,SUP050
+PROD0350,For Football,Sports,Football,34.22,21.99,Williams PLC,227,SUP023
+PROD0351,Show Haircare,Beauty,Haircare,389.84,284.86,Hayes-Villegas,40,SUP009
+PROD0352,Story Skincare,Beauty,Skincare,458.15,328.96,Hester-Davis,205,SUP036
+PROD0353,American Yoga Mat,Sports,Yoga Mat,27.79,21.72,Davis-Zimmerman,495,SUP004
+PROD0354,Perform Jeans,Clothing,Jeans,201.88,119.19,Bennett PLC,360,SUP007
+PROD0355,City Haircare,Beauty,Haircare,356.07,234.26,"Gomez, Sharp and Garcia",131,SUP014
+PROD0356,Spend Cookware,Home & Kitchen,Cookware,149.3,114.51,Stewart Ltd,21,SUP043
+PROD0357,Marriage T-Shirt,Clothing,T-Shirt,86.8,68.52,Bush Group,192,SUP023
+PROD0358,Republican Football,Sports,Football,319.17,230.08,Freeman-Morris,430,SUP020
+PROD0359,Financial Yoga Mat,Sports,Yoga Mat,419.02,235.58,Williams-Russell,53,SUP037
+PROD0360,Today Non-Fiction,Books,Non-Fiction,169.03,109.97,"Fisher, Watson and Johnson",398,SUP038
+PROD0361,Act Fiction,Books,Fiction,402.34,203.02,Brown-Lewis,280,SUP001
+PROD0362,Help Football,Sports,Football,243.69,166.7,Meyer-Hall,237,SUP035
+PROD0363,Section Mixer,Home & Kitchen,Mixer,374.93,246.87,"Vazquez, Harper and Sanchez",179,SUP020
+PROD0364,Behind Haircare,Beauty,Haircare,348.77,182.24,Hardy-Patton,216,SUP006
+PROD0365,Lose Jeans,Clothing,Jeans,182.87,101.45,Barnes-Patterson,132,SUP001
+PROD0366,Him Perfume,Beauty,Perfume,318.16,252.84,James Ltd,222,SUP003
+PROD0367,Detail Headphones,Electronics,Headphones,451.73,326.74,"Snyder, Gill and Carpenter",201,SUP026
+PROD0368,Southern Headphones,Electronics,Headphones,481.48,244.12,Carter and Sons,173,SUP035
+PROD0369,Continue T-Shirt,Clothing,T-Shirt,317.24,188.58,Graham-Reyes,321,SUP021
+PROD0370,West Football,Sports,Football,403.95,280.48,Hoffman LLC,109,SUP047
+PROD0371,Writer Jeans,Clothing,Jeans,418.04,222.25,Phillips-Harrison,417,SUP014
+PROD0372,Wide Education,Books,Education,494.95,335.77,Rodriguez and Sons,468,SUP041
+PROD0373,Rate Yoga Mat,Sports,Yoga Mat,131.13,98.53,"Kelly, Garrett and Cox",346,SUP038
+PROD0374,Able Mixer,Home & Kitchen,Mixer,278.07,166.59,Reeves PLC,48,SUP049
+PROD0375,Budget Cricket Bat,Sports,Cricket Bat,193.99,140.3,Richardson Group,192,SUP031
+PROD0376,Rest Perfume,Beauty,Perfume,263.25,167.41,Carroll and Sons,350,SUP030
+PROD0377,Week Cricket Bat,Sports,Cricket Bat,19.04,13.5,Griffin Group,352,SUP031
+PROD0378,Sign Jacket,Clothing,Jacket,294.68,182.07,Nelson-Cole,26,SUP010
+PROD0379,Allow Headphones,Electronics,Headphones,285.92,144.09,Martin Inc,177,SUP004
+PROD0380,Middle Perfume,Beauty,Perfume,34.33,26.03,"Chang, Cervantes and Ellison",181,SUP047
+PROD0381,Whole Tennis Racket,Sports,Tennis Racket,150.88,81.9,"Thompson, Rios and Garcia",375,SUP035
+PROD0382,Board Mobile,Electronics,Mobile,160.98,82.41,Cohen Ltd,222,SUP037
+PROD0383,Value Non-Fiction,Books,Non-Fiction,152.33,113.43,Greene-Brady,283,SUP021
+PROD0384,Now Education,Books,Education,383.5,275.75,Nelson-Villanueva,353,SUP029
+PROD0385,Catch Jacket,Clothing,Jacket,98.3,53.5,"Griffin, Gonzalez and Griffith",244,SUP002
+PROD0386,Structure Shirt,Clothing,Shirt,228.29,150.22,Craig LLC,258,SUP047
+PROD0387,Former Makeup,Beauty,Makeup,118.09,88.13,James Group,273,SUP022
+PROD0388,Executive Perfume,Beauty,Perfume,10.05,7.12,Smith-King,205,SUP008
+PROD0389,Four Jacket,Clothing,Jacket,194.52,125.14,Flores and Sons,225,SUP027
+PROD0390,Wear Mixer,Home & Kitchen,Mixer,57.85,42.03,"Lee, West and Hall",159,SUP028
+PROD0391,Deal Cricket Bat,Sports,Cricket Bat,345.73,192.7,Patterson PLC,119,SUP021
+PROD0392,Eye Perfume,Beauty,Perfume,363.16,195.14,Hernandez PLC,365,SUP010
+PROD0393,Oil Camera,Electronics,Camera,34.61,24.94,Oneal-Davis,119,SUP048
+PROD0394,Some Makeup,Beauty,Makeup,32.08,18.07,Mcfarland and Sons,155,SUP008
+PROD0395,Over Fiction,Books,Fiction,84.43,49.4,Davila Ltd,73,SUP028
+PROD0396,Interview Tennis Racket,Sports,Tennis Racket,390.76,266.85,Guzman Group,480,SUP033
+PROD0397,Or Headphones,Electronics,Headphones,476.24,290.38,"Hancock, Morris and Ramos",50,SUP007
+PROD0398,Charge Tennis Racket,Sports,Tennis Racket,284.2,172.07,Wilson-Brown,126,SUP042
+PROD0399,Section Cricket Bat,Sports,Cricket Bat,471.16,343.04,"Gonzalez, Williams and Brown",270,SUP044
+PROD0400,Focus T-Shirt,Clothing,T-Shirt,299.72,234.85,"Guerra, Thomas and Parker",182,SUP009
+PROD0401,Effort Cricket Bat,Sports,Cricket Bat,19.79,14.66,"Horn, Davis and Cummings",26,SUP009
+PROD0402,Month Non-Fiction,Books,Non-Fiction,384.81,202.3,Webster and Sons,437,SUP008
+PROD0403,Theory Comics,Books,Comics,92.19,48.09,Weaver-Foster,346,SUP031
+PROD0404,Everything Jacket,Clothing,Jacket,346.37,215.93,Berry-Manning,218,SUP022
+PROD0405,Participant Jacket,Clothing,Jacket,192.52,146.82,"Rowe, Hoffman and Parks",95,SUP024
+PROD0406,Member Shirt,Clothing,Shirt,453.7,335.3,"Ramirez, Richardson and Burke",451,SUP049
+PROD0407,Some Headphones,Electronics,Headphones,279.7,175.37,"Lucas, Day and Turner",385,SUP032
+PROD0408,Quite Comics,Books,Comics,212.0,150.67,Wilkerson Inc,42,SUP041
+PROD0409,Less Non-Fiction,Books,Non-Fiction,195.82,123.79,Cummings-Wilcox,215,SUP048
+PROD0410,Public Fiction,Books,Fiction,471.18,290.31,"Espinoza, Johnson and Flores",473,SUP011
+PROD0411,Doctor Shirt,Clothing,Shirt,364.11,269.97,"Jones, Walsh and Davis",238,SUP036
+PROD0412,Walk Jeans,Clothing,Jeans,345.42,214.72,Ruiz and Sons,131,SUP039
+PROD0413,Pass Laptop,Electronics,Laptop,355.48,237.05,Cooper and Sons,423,SUP048
+PROD0414,Agent Non-Fiction,Books,Non-Fiction,349.22,277.56,Norton-Sanders,439,SUP037
+PROD0415,Pattern Fiction,Books,Fiction,183.81,130.32,Sanchez Ltd,422,SUP023
+PROD0416,Half Mixer,Home & Kitchen,Mixer,487.1,303.64,Carter-Hodge,421,SUP010
+PROD0417,Debate Jeans,Clothing,Jeans,21.56,14.54,Gregory and Sons,390,SUP029
+PROD0418,Land Makeup,Beauty,Makeup,30.6,17.52,"Lawson, Lopez and Jimenez",158,SUP044
+PROD0419,Take Comics,Books,Comics,122.77,91.12,Morris-Orozco,302,SUP029
+PROD0420,Republican Mixer,Home & Kitchen,Mixer,179.06,138.1,Greer-George,173,SUP016
+PROD0421,Enjoy Haircare,Beauty,Haircare,96.5,63.03,"Davis, Morris and Graham",337,SUP025
+PROD0422,His Football,Sports,Football,24.21,16.19,"Rojas, Gonzalez and Perez",254,SUP007
+PROD0423,Someone Haircare,Beauty,Haircare,252.38,198.05,"Baker, Jones and Calhoun",376,SUP008
+PROD0424,Factor Education,Books,Education,341.78,239.15,"Duncan, Pena and Weber",203,SUP042
+PROD0425,Treatment Mixer,Home & Kitchen,Mixer,184.6,100.14,"Grant, Burns and Mckinney",417,SUP003
+PROD0426,Eye Non-Fiction,Books,Non-Fiction,484.71,304.76,Bennett-Cochran,432,SUP049
+PROD0427,Defense Toaster,Home & Kitchen,Toaster,442.62,223.24,"Gonzalez, Hernandez and White",429,SUP026
+PROD0428,Daughter Tennis Racket,Sports,Tennis Racket,261.17,167.99,Nunez LLC,413,SUP003
+PROD0429,Fish Headphones,Electronics,Headphones,435.9,296.09,Wright-Rodriguez,82,SUP043
+PROD0430,Model Jeans,Clothing,Jeans,20.22,13.05,Carrillo Ltd,386,SUP020
+PROD0431,Clearly Skincare,Beauty,Skincare,380.81,210.49,Cochran-Jones,243,SUP039
+PROD0432,Check Toaster,Home & Kitchen,Toaster,211.07,108.05,Vance-Hodge,57,SUP023
+PROD0433,With Comics,Books,Comics,105.93,70.35,Rodriguez PLC,225,SUP032
+PROD0434,Certain Cricket Bat,Sports,Cricket Bat,158.58,98.95,"Waters, Melton and Collins",356,SUP005
+PROD0435,Difference Tennis Racket,Sports,Tennis Racket,224.83,162.75,"Moss, Reyes and Robertson",139,SUP042
+PROD0436,Institution Camera,Electronics,Camera,345.17,198.82,Elliott-Saunders,213,SUP003
+PROD0437,Value Haircare,Beauty,Haircare,485.09,249.3,Garrett-Franklin,352,SUP009
+PROD0438,Worry Comics,Books,Comics,451.43,354.19,Anderson Group,465,SUP025
+PROD0439,Use Comics,Books,Comics,493.18,287.54,Carrillo-Shelton,167,SUP011
+PROD0440,Need T-Shirt,Clothing,T-Shirt,189.15,122.23,Hill-Rocha,380,SUP013
+PROD0441,Reality Makeup,Beauty,Makeup,384.49,284.63,Jones Ltd,321,SUP003
+PROD0442,Cover Haircare,Beauty,Haircare,74.49,58.82,"Sanders, Rush and Haynes",248,SUP040
+PROD0443,Will T-Shirt,Clothing,T-Shirt,455.21,227.96,Barajas-Brooks,333,SUP026
+PROD0444,Poor Jacket,Clothing,Jacket,483.76,361.23,"Garrett, Johnson and Rhodes",271,SUP024
+PROD0445,Company Mobile,Electronics,Mobile,75.1,45.32,"Richards, Harrington and Rodriguez",205,SUP027
+PROD0446,Tough Haircare,Beauty,Haircare,257.82,132.92,Nicholson Ltd,216,SUP039
+PROD0447,Answer Laptop,Electronics,Laptop,194.3,101.73,Garcia Ltd,363,SUP018
+PROD0448,Management Skincare,Beauty,Skincare,266.58,199.33,Brown Inc,297,SUP009
+PROD0449,Produce Football,Sports,Football,409.8,220.1,Church Ltd,185,SUP008
+PROD0450,Huge Laptop,Electronics,Laptop,126.29,91.44,Beck-Li,494,SUP044
+PROD0451,Prevent Camera,Electronics,Camera,27.24,20.63,"Evans, Perez and Wood",391,SUP039
+PROD0452,Still Cricket Bat,Sports,Cricket Bat,187.31,94.44,"Parrish, Phillips and Garza",193,SUP043
+PROD0453,West T-Shirt,Clothing,T-Shirt,423.31,213.18,Wheeler and Sons,256,SUP016
+PROD0454,Family Tennis Racket,Sports,Tennis Racket,271.38,158.03,Johnson-Horne,279,SUP036
+PROD0455,Middle Jeans,Clothing,Jeans,19.64,9.87,Larson-Cobb,64,SUP009
+PROD0456,Give Makeup,Beauty,Makeup,54.64,43.69,House and Sons,494,SUP042
+PROD0457,May Makeup,Beauty,Makeup,34.45,27.16,"Anderson, Garcia and York",89,SUP007
+PROD0458,Fish Haircare,Beauty,Haircare,202.75,152.52,"Price, Hoffman and Soto",100,SUP029
+PROD0459,Drop Cricket Bat,Sports,Cricket Bat,176.23,132.36,Vargas-Mata,15,SUP044
+PROD0460,Owner Makeup,Beauty,Makeup,480.41,358.49,Rodriguez and Sons,246,SUP044
+PROD0461,Play Toaster,Home & Kitchen,Toaster,196.01,133.48,Griffin and Sons,79,SUP034
+PROD0462,Mind Jeans,Clothing,Jeans,205.96,158.07,"Bauer, Sanchez and Anderson",376,SUP003
+PROD0463,I Makeup,Beauty,Makeup,486.53,386.77,Jones and Sons,207,SUP007
+PROD0464,Someone Fiction,Books,Fiction,21.09,11.04,Burton-Blackwell,100,SUP045
+PROD0465,Carry Fiction,Books,Fiction,264.04,155.97,"Carrillo, Ritter and Morgan",103,SUP048
+PROD0466,Kid Shirt,Clothing,Shirt,433.12,345.69,Robinson-Yoder,82,SUP012
+PROD0467,Power T-Shirt,Clothing,T-Shirt,328.41,209.73,Braun LLC,176,SUP027
+PROD0468,Four Toaster,Home & Kitchen,Toaster,432.03,216.15,Valentine-Mann,395,SUP029
+PROD0469,Worry Education,Books,Education,491.54,388.86,Vaughn-Cantrell,13,SUP015
+PROD0470,Manage Vacuum,Home & Kitchen,Vacuum,54.31,30.88,"Quinn, Ross and Jackson",77,SUP022
+PROD0471,Book Vacuum,Home & Kitchen,Vacuum,25.68,16.31,Wilson LLC,304,SUP037
+PROD0472,Kid T-Shirt,Clothing,T-Shirt,259.51,181.97,Osborne Inc,337,SUP004
+PROD0473,Expert Education,Books,Education,455.87,301.46,Anderson PLC,376,SUP028
+PROD0474,Difference Fiction,Books,Fiction,332.0,238.62,Allen-Spencer,395,SUP015
+PROD0475,Allow Laptop,Electronics,Laptop,229.65,157.34,Coleman LLC,209,SUP010
+PROD0476,Field Shirt,Clothing,Shirt,269.84,160.67,Jones-Jones,273,SUP006
+PROD0477,Want Laptop,Electronics,Laptop,416.97,237.04,"Johnson, Johnson and Reynolds",385,SUP025
+PROD0478,Story Jeans,Clothing,Jeans,159.96,116.82,Espinoza LLC,10,SUP001
+PROD0479,Officer Makeup,Beauty,Makeup,394.63,234.56,"Dominguez, Gomez and Davenport",312,SUP029
+PROD0480,Drive Toaster,Home & Kitchen,Toaster,208.95,117.06,Crawford-Allen,54,SUP041
+PROD0481,Response Cookware,Home & Kitchen,Cookware,90.18,62.01,"Santos, Hunter and Smith",468,SUP002
+PROD0482,Large Comics,Books,Comics,447.56,346.28,"Lewis, Mills and Allen",382,SUP026
+PROD0483,Still Vacuum,Home & Kitchen,Vacuum,306.44,167.27,"Sanders, Serrano and Marshall",111,SUP037
+PROD0484,Garden Perfume,Beauty,Perfume,83.57,43.52,Jackson-Browning,304,SUP037
+PROD0485,Still Education,Books,Education,120.28,75.19,Hines Inc,185,SUP047
+PROD0486,Recently Perfume,Beauty,Perfume,307.8,183.58,Harvey-Day,98,SUP006
+PROD0487,Situation Haircare,Beauty,Haircare,89.47,68.14,Kelly PLC,272,SUP042
+PROD0488,Six Headphones,Electronics,Headphones,217.61,158.6,"Hoffman, Gutierrez and Whitaker",241,SUP032
+PROD0489,Rather Jacket,Clothing,Jacket,351.32,236.41,Scott LLC,161,SUP012
+PROD0490,Feeling Mixer,Home & Kitchen,Mixer,75.43,52.77,"Perry, Vasquez and Gomez",431,SUP001
+PROD0491,Movement Mobile,Electronics,Mobile,53.06,34.48,Robertson-Esparza,213,SUP015
+PROD0492,Piece Jeans,Clothing,Jeans,299.37,222.35,Sellers and Sons,223,SUP016
+PROD0493,Minute Toaster,Home & Kitchen,Toaster,299.81,235.84,Wright PLC,228,SUP050
+PROD0494,Always Tennis Racket,Sports,Tennis Racket,478.97,276.45,Murray Inc,475,SUP025
+PROD0495,Relationship Jeans,Clothing,Jeans,116.85,69.58,"Phelps, Sanchez and Walsh",117,SUP014
+PROD0496,Movement Jeans,Clothing,Jeans,497.55,330.22,"Dyer, Avila and Snyder",434,SUP006
+PROD0497,Seat Education,Books,Education,101.95,75.57,"Jordan, Freeman and Ruiz",129,SUP001
+PROD0498,Contain Non-Fiction,Books,Non-Fiction,278.55,184.9,"Lee, Rodriguez and Mays",408,SUP033
+PROD0499,Buy Tennis Racket,Sports,Tennis Racket,344.19,274.71,Moore and Sons,267,SUP009
+PROD0500,Marriage Mixer,Home & Kitchen,Mixer,280.1,215.26,King PLC,132,SUP021

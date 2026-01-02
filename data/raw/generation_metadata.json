@@ -1,0 +1,18 @@
+{
+    "generation_timestamp": "2026-01-02T16:21:15.186447+00:00",
+    "record_counts": {
+        "customers": 1000,
+        "products": 500,
+        "transactions": 10000,
+        "transaction_items": 29946
+    },
+    "transaction_date_range": {
+        "start": "2024-01-01",
+        "end": "2024-12-31"
+    },
+    "data_quality": {
+        "orphan_records": 0,
+        "constraint_violations": 0,
+        "data_quality_score": 100
+    }
+}

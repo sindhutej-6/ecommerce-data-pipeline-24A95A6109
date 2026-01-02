@@ -1,0 +1,39 @@
+{
+    "monitoring_timestamp": "2026-01-02T09:04:43.304641+00:00",
+    "pipeline_health": "healthy",
+    "checks": {
+        "last_execution": {
+            "status": "ok",
+            "last_run": "2026-01-01T16:49:49.912124+00:00",
+            "hours_since_last_run": 16.25,
+            "threshold_hours": 25
+        },
+        "data_freshness": {
+            "status": "warning",
+            "staging_latest_record": "2026-01-01T16:49:45.062325+00:00",
+            "production_latest_record": "2026-01-01T16:49:45.979621+00:00",
+            "warehouse_latest_record": "2025-12-28T06:16:30.721581+00:00",
+            "max_lag_hours": 106.55
+        },
+        "data_volume_anomalies": {
+            "status": "ok",
+            "note": "No data available for anomaly detection",
+            "actual_count": 0,
+            "anomaly_detected": false,
+            "anomaly_type": null
+        },
+        "data_quality": {
+            "status": "ok",
+            "quality_score": 100,
+            "orphan_records": 0,
+            "null_violations": 0
+        },
+        "database_connectivity": {
+            "status": "ok",
+            "response_time_ms": 1.72,
+            "connections_active": 6
+        }
+    },
+    "alerts": [],
+    "overall_health_score": 100
+}

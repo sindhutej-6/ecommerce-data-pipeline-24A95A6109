@@ -1,0 +1,22 @@
+{
+    "ingestion_timestamp": "2026-01-01T22:19:44.981423",
+    "tables_loaded": {
+        "staging.customers": {
+            "rows_loaded": 1000,
+            "status": "success"
+        },
+        "staging.products": {
+            "rows_loaded": 500,
+            "status": "success"
+        },
+        "staging.transactions": {
+            "rows_loaded": 10000,
+            "status": "success"
+        },
+        "staging.transaction_items": {
+            "rows_loaded": 30301,
+            "status": "success"
+        }
+    },
+    "total_execution_time_seconds": 0.43
+}

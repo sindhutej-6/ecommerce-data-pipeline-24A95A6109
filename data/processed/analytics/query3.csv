@@ -1,0 +1,4 @@
+spending_segment,customer_count,total_revenue,avg_transaction_value
+"$1,000-$5,000",27,100020.87,916.71
+"$5,000-$10,000",204,1631352.9,1233.51
+"$10,000+",769,12713760.13,1508.81

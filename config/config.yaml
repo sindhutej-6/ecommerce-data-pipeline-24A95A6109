@@ -1,17 +1,21 @@
 database:
-  host: ${DB_HOST}
-  port: ${DB_PORT}
-  name: ${DB_NAME}
-  user: ${DB_USER}
-  password: ${DB_PASSWORD}
+  host: localhost
+  port: 5432
+  name: ecommerce_db
+  user: admin
+  password: password
+
+
 
 data_generation:
   customers: 1000
   products: 500
-  transactions: 5000
-  transaction_items: 15000
-  start_date: "2024-01-01"
-  end_date: "2024-12-31"
+  transactions: 10000
+  
+
+  transaction_date_range:
+    start_date: "2024-01-01"
+    end_date: "2024-12-31"
 
 pipeline:
   batch_size: 1000

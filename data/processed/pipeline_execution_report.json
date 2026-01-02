@@ -1,0 +1,47 @@
+{
+    "pipeline_execution_id": "PIPE_20260102_162059",
+    "start_time": "2026-01-02T16:20:59.656982+00:00",
+    "end_time": "2026-01-02T16:21:21.002489+00:00",
+    "total_duration_seconds": 21.35,
+    "status": "success",
+    "steps_executed": {
+        "data_generation": {
+            "status": "success",
+            "duration_seconds": 15.69,
+            "records_processed": null,
+            "retry_attempts": 0
+        },
+        "data_ingestion": {
+            "status": "success",
+            "duration_seconds": 1.11,
+            "records_processed": null,
+            "retry_attempts": 0
+        },
+        "data_quality": {
+            "status": "success",
+            "duration_seconds": 0.61,
+            "records_processed": null,
+            "retry_attempts": 0
+        },
+        "staging_to_production": {
+            "status": "success",
+            "duration_seconds": 1.65,
+            "records_processed": null,
+            "retry_attempts": 0
+        },
+        "warehouse_load": {
+            "status": "success",
+            "duration_seconds": 0.49,
+            "records_processed": null,
+            "retry_attempts": 0
+        },
+        "analytics_generation": {
+            "status": "success",
+            "duration_seconds": 1.79,
+            "records_processed": null,
+            "retry_attempts": 0
+        }
+    },
+    "errors": [],
+    "warnings": []
+}

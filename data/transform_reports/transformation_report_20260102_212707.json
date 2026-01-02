@@ -1,0 +1,48 @@
+{
+    "transformation_timestamp": "2026-01-02T21:27:07.922903",
+    "records_processed": {
+        "customers": {
+            "input": 1000,
+            "output": 1000,
+            "filtered": 0,
+            "rejected_reasons": {
+                "business_rule_filter": 0
+            }
+        },
+        "products": {
+            "input": 500,
+            "output": 500,
+            "filtered": 0,
+            "rejected_reasons": {
+                "business_rule_filter": 0
+            }
+        },
+        "transactions": {
+            "input": 10000,
+            "output": 10000,
+            "filtered": 0,
+            "rejected_reasons": {
+                "business_rule_filter": 0
+            }
+        },
+        "transaction_items": {
+            "input": 30301,
+            "output": 30301,
+            "filtered": 0,
+            "rejected_reasons": {
+                "business_rule_filter": 0
+            }
+        }
+    },
+    "transformations_applied": [
+        "text_normalization",
+        "email_standardization",
+        "phone_standardization",
+        "monetary_rounding",
+        "business_rule_filtering"
+    ],
+    "data_quality_post_transform": {
+        "null_violations": 0,
+        "constraint_violations": 0
+    }
+}
